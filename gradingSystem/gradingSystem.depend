@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668593489 source:/home/hinn/Documents/C programs/gradingSystem/main.c
+	<stdio.h>
+	<stdlib.h>
+

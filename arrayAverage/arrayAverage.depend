@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668601949 source:/home/hinn/Documents/C programs/arrayAverage/main.c
+	<stdio.h>
+	<stdlib.h>
+

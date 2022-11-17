@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668546981 source:/home/hinn/Documents/C programs/saleSalary/main.c
+	<stdio.h>
+	<stdlib.h>
+
